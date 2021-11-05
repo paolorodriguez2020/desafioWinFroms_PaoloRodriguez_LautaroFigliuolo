@@ -1,0 +1,10 @@
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.exe.config
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.exe
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\bin\Debug\ProyectoIntegrador.pdb
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.AssemblyReference.cache
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.Form1.resources
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.Properties.Resources.resources
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.GenerateResource.cache
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.exe
+C:\Users\Paolo\OneDrive\Escritorio\Laboratorio 2\ProyectoIntegrador\obj\Debug\ProyectoIntegrador.pdb
